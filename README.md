@@ -7,5 +7,5 @@ Project completed at Rocketseat's Next Level Week event. 💜
 
 - HTML
 - CSS
-- GIT e GITHUB
+- GIT/ GITHUB
 
